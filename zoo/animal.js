@@ -85,6 +85,8 @@ console.log(pulpo,atun,gorila,oso,perico,tucan)
 
 console.log(pulpo.nadar(""))
 
+var acuaticosAll = (pulpo,atun) =>
+
 
 
 
